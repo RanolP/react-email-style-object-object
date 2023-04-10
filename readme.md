@@ -1,5 +1,7 @@
 # tailwind-style-repro
 
+See output [here](https://ranolp.github.io/react-email-style-object-object/).
+
 when use combination of following stuff
 
 - react-email
