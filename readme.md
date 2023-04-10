@@ -9,7 +9,7 @@ when use combination of following stuff
 - react-email
 - responsive mail body
 - tailwindcss
-- custom style tag
+- style tag in head
 
 it makes weird style bug.
 
