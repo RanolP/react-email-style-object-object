@@ -1,4 +1,4 @@
-# tailwind-style-repro
+# react-email-style-object-object (Related to [react-email #637](https://github.com/resendlabs/react-email/issues/637))
 
 See output [here](https://ranolp.github.io/react-email-style-object-object/).
 
